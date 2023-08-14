@@ -1,0 +1,9 @@
+// Converter de °C para °F e vice versa
+
+1: leia temperatura
+2: leia unidade
+3: se unidade = °C
+4: então resultado = (temperatura * 1.8) + 32
+5: senão
+6: então resultado = (temperatura - 32) / 1.8
+7: escreva resultado
