@@ -2,7 +2,7 @@ Identificar os numros, somar e fazer a média.
 
 1: leia os números da lista
 2: leia a quantidade de numeros da lista
-3: soma = 0
+3: var soma = 0
 4: soma = (soma + números da lista)
 5: resultado + soma / quantidade de números da lista
 6: escreva resultado
