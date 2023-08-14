@@ -1,0 +1,9 @@
+descobrir o fatorial de um número
+
+1: leia o número
+2: liste todas as únidades númericas de 1 até o número em questão
+3: var fatorial
+4: fatorial = 1
+5: para todos os números da lista
+6: fatorial = (fatorial * números da lista)
+8: escreva fatorial
